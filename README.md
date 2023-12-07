@@ -1,5 +1,5 @@
 # Data-Processing
-#How to compile the Code:
+# How to compile the Code:
 
 1. open the directory containing Data_Processing.cpp in Command Prompt.
 2. compile: g++ Data_Processing.cpp -o inmemorydb
@@ -21,6 +21,6 @@ https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/
 
 Thank you!
 
-#write-up:
+# write-up:
 I believe providing additional clarity on error messages, transaction behaviors, and method usage to make sure students have a clear understanding of expectations would be beneficial. Including guidelines for code readability, commenting, and best practices may also help us to write code up to enterprise spec. Finally, challenging students by adding an extra method or features to the InMemoryDB class may make this more of a complete assignment. This could be like adding a delete or remove function, or keeping track of transactions in some way that info can be gathered about them.
 
